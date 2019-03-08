@@ -83,14 +83,14 @@ author:
   name             : "N E Davis"
   avatar           : "profile.png"
   bio              : "Teaching Assistant Professor · Computer Science"
-  location         : "University of Illinois at Urbana–Champaign"
+  location         : "University of Illinois"
   employer         :
   pubmed           :
   googlescholar    :
   email            : "davis68@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : "davis68"
   codepen          :
   dribbble         :
   flickr           :
@@ -104,7 +104,7 @@ author:
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-1131-8319"
   pinterest        :
-  reddit           : "https://www.reddit.com/u/DavisNealE"
+  reddit           : "DavisNealE"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :

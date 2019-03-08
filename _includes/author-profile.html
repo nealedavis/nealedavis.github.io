@@ -79,6 +79,9 @@
       {% if author.pinterest %}
         <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-pinterest" aria-hidden="true"></i> Pinterest</a></li>
       {% endif %}
+      {% if author.reddit %}
+        <li><a href="https://www.reddit.com/user/{{ author.reddit }}"><i class="fab fa-reddit" aria-hidden="true"></i> Reddit</a></li>
+      {% endif %}
       {% if author.foursquare %}
         <li><a href="https://foursquare.com/{{ author.foursquare }}"><i class="fab fa-foursquare" aria-hidden="true"></i> Foursquare</a></li>
       {% endif %}
