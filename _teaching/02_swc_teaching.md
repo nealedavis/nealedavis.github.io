@@ -3,12 +3,9 @@ title: "Software Carpentry & Data Carpentry"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/02_swc_teaching
-venue: "Software Carpentry"
 ---
 
-##  [Software Carpentry](https://software-carpentry.org/)
-
-### Software Carpentry and Data Carpentry Workshops
+### [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/) Workshops
 
 -   [`2019-04-04-illinois`](https://swc-uiuc.github.io/2019-04-04-illinois/) Women in Software Carpentry (host)
 -   [`2019-02-14-illinois`](https://swc-uiuc.github.io/2019-02-14-illinois/)
@@ -48,7 +45,7 @@ venue: "Software Carpentry"
 
 *Certified March 2016 by Tracy Teal as a Data Carpentry Instructor.*
 
-### Instructor Training
+### Instructor Training Workshops
 
 -   [`2019-05-02-ttt-illinois`]()
 -   [`2019-04-04-ttt-online`]()
@@ -65,5 +62,7 @@ venue: "Software Carpentry"
 -   [`2016-04-13-training-online`](https://swcarpentry.github.io/2016-04-13-training-online)
 
 *Certified May 2016 by Greg Wilson as a Software Carpentry Instructor Trainer.*
+
+### Carpentries-Related Talks
 
 -   "Reproducible Research:  The Carpentries' Approach", _Whole Tale Workshop_, 2019-03-07
