@@ -7,6 +7,26 @@ permalink: /teaching/cs_teaching
 
 ###  [Computer Science, University of Illinois](https://cs.illinois.edu)
 
+#### Spring 2021:
+
+-   [CS 101](https://go.illinois.edu/cs101), Introduction to Programming for Scientists and Engineers
+-   [ENG 498IM/IS 497IMC](https://go.illinois.edu/eng498im), Interdisciplinary Methods in Research Computing
+
+#### Fall 2020:
+
+-   [CS 101](https://go.illinois.edu/cs101), Introduction to Programming for Scientists and Engineers
+-   [CS 498MC](https://go.illinois.edu/cs498mc), Martian Computing (first [Urbit](http://urbit.org/) course taught at a university)
+
+#### Spring 2020:
+
+-   [CS 101](https://go.illinois.edu/cs101), Introduction to Programming for Scientists and Engineers
+
+#### Fall 2019:
+
+-   [CS 101](https://go.illinois.edu/cs101), Introduction to Programming for Scientists and Engineers
+-   [CS 199PY](https://relate.cs.illinois.edu/course/cs199py-sp20a), Python for Data
+-   [CS 491TC](https://go.illinois.edu/cs491tc), Tradecraft for Coders
+
 #### Spring 2019:
 
 -   [CS 101](https://go.illinois.edu/cs101), Introduction to Programming for Scientists and Engineers
